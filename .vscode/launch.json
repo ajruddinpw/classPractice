@@ -1,0 +1,413 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "multi11",
+            "request": "launch",
+            "mainClass": "multithreading.multi11",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "multi10",
+            "request": "launch",
+            "mainClass": "multithreading.multi10",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "multi9",
+            "request": "launch",
+            "mainClass": "multithreading.multi9",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "multi8",
+            "request": "launch",
+            "mainClass": "multithreading.multi8",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Multi7",
+            "request": "launch",
+            "mainClass": "multithreading.Multi7",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "multi5",
+            "request": "launch",
+            "mainClass": "multithreading.multi5",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "multi4",
+            "request": "launch",
+            "mainClass": "multithreading.multi4",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "multi3",
+            "request": "launch",
+            "mainClass": "multithreading.multi3",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Multi2",
+            "request": "launch",
+            "mainClass": "Multi2",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Checked_unchec",
+            "request": "launch",
+            "mainClass": "Checked_unchec",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Customexcep",
+            "request": "launch",
+            "mainClass": "Customexcep",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "handlingvsDuck",
+            "request": "launch",
+            "mainClass": "handlingvsDuck",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Exception3",
+            "request": "launch",
+            "mainClass": "Exception3",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "exception2",
+            "request": "launch",
+            "mainClass": "exception2",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Exception1",
+            "request": "launch",
+            "mainClass": "Exception1",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExp",
+            "request": "launch",
+            "mainClass": "LambdaExp",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "AnnonymousInner",
+            "request": "launch",
+            "mainClass": "AnnonymousInner",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Innerclass",
+            "request": "launch",
+            "mainClass": "Innerclass",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Interface3",
+            "request": "launch",
+            "mainClass": "Interface3",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Interface2",
+            "request": "launch",
+            "mainClass": "Interface2",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Launchpoly",
+            "request": "launch",
+            "mainClass": "Launchpoly",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "LaunchPoly1",
+            "request": "launch",
+            "mainClass": "LaunchPoly1",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "LaunchAbs",
+            "request": "launch",
+            "mainClass": "LaunchAbs",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance5",
+            "request": "launch",
+            "mainClass": "Inheritance5",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance4",
+            "request": "launch",
+            "mainClass": "Inheritance4",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance3",
+            "request": "launch",
+            "mainClass": "Inheritance3",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance2",
+            "request": "launch",
+            "mainClass": "Inheritance2",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "ComplexPattern",
+            "request": "launch",
+            "mainClass": "ComplexPattern",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Constructor1",
+            "request": "launch",
+            "mainClass": "Constructor1",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Constructor2",
+            "request": "launch",
+            "mainClass": "Constructor2",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Constructor3",
+            "request": "launch",
+            "mainClass": "Constructor3",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "DemoA1",
+            "request": "launch",
+            "mainClass": "DemoA1",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "DemoA2",
+            "request": "launch",
+            "mainClass": "DemoA2",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "DemoA3",
+            "request": "launch",
+            "mainClass": "DemoA3",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "DemoA7",
+            "request": "launch",
+            "mainClass": "DemoA7",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "DemoA8",
+            "request": "launch",
+            "mainClass": "DemoA8",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Mutable",
+            "request": "launch",
+            "mainClass": "Mutable",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Mutable1",
+            "request": "launch",
+            "mainClass": "Mutable1",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Pangram",
+            "request": "launch",
+            "mainClass": "Pangram",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Static3",
+            "request": "launch",
+            "mainClass": "Static3",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "StaticFarmer",
+            "request": "launch",
+            "mainClass": "StaticFarmer",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Static_keyword",
+            "request": "launch",
+            "mainClass": "Static_keyword",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "String1",
+            "request": "launch",
+            "mainClass": "String1",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "String2",
+            "request": "launch",
+            "mainClass": "String2",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "String3",
+            "request": "launch",
+            "mainClass": "String3",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "String4",
+            "request": "launch",
+            "mainClass": "String4",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "String5",
+            "request": "launch",
+            "mainClass": "String5",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "String6",
+            "request": "launch",
+            "mainClass": "String6",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "Userinput",
+            "request": "launch",
+            "mainClass": "Userinput",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "demoArray",
+            "request": "launch",
+            "mainClass": "demoArray",
+            "projectName": "programs_38b3c052"
+        },
+        {
+            "type": "java",
+            "name": "printvsPrintln",
+            "request": "launch",
+            "mainClass": "printvsPrintln",
+            "projectName": "programs_38b3c052"
+        }
+    ]
+}
